@@ -11,7 +11,6 @@ A beginner-friendly, multi-page HTML/CSS project based on the supplied assignmen
 - `styles.css` — shared responsive styling
 - `assets/techfest-logo.svg` — local festival logo
 - `assets/festival-chime.wav` — original short audio asset
-- `assets/techfest-brochure.pdf` — downloadable brochure
 
 ## Run
 Unzip the folder and open `index.html` in a browser. All local assets use relative paths.
