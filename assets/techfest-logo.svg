@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#25c5d9"/><stop offset="1" stop-color="#647cff"/></linearGradient></defs>
+<rect x="8" y="8" width="184" height="184" rx="42" fill="#fff"/><path d="M100 27 164 64v72l-64 37-64-37V64z" fill="url(#g)"/>
+<path d="m112 48-48 61h31l-7 43 48-65h-31z" fill="#fff"/><text x="100" y="188" font-family="Arial" font-size="12" text-anchor="middle" fill="#17264c" font-weight="bold">TECHFEST</text></svg>
